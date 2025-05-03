@@ -35,13 +35,10 @@ Siga os passos abaixo para preparar o ambiente:
 ## ▶️ Como Executar os Exercícios
 Você pode rodar os arquivos de duas formas:
 
-**🔹 Pelo terminal**
-Digite o seguinte comando:
-`node <nomeDoArquivo.js>`
+**🔹 Pelo terminal:** digite o seguinte comando: `node <nomeDoArquivo.js>`
  > Exemplo: `node atividade01.js`
 
-**🔹 Pelo VS Code**
-Se você tiver a extensão **Code Runner**, clique no botão **"Run Code"** no canto superior direito do editor.
+**🔹 Pelo VS Code:** se você tiver a extensão **Code Runner**, clique no botão **"Run Code"** no canto superior direito do editor.
 
 ---
 
