@@ -2,7 +2,7 @@
 
 Este repositório contém uma lista de 15 exercícios de **lógica de programação** desenvolvidos em **JavaScript**, utilizando o **Node.js** como ambiente de execução.
 
----
+
 
 ## 📌 Pré-requisitos
 
@@ -10,7 +10,7 @@ Antes de executar os exercícios, é necessário ter o **Node.js (versão LTS)**
 
 🔗 Caso não tenha, baixe aqui: [Node.js](https://nodejs.org)
 
----
+
 
 ## ⚙️ Configuração do Ambiente
 
@@ -30,7 +30,7 @@ Siga os passos abaixo para preparar o ambiente:
 4. **Instale a biblioteca `prompt-sync`:**
     `npm install prompt-sync`
 
----
+
 
 ## ▶️ Como Executar os Exercícios
 Você pode rodar os arquivos de duas formas:
@@ -40,7 +40,7 @@ Você pode rodar os arquivos de duas formas:
 
 **🔹 Pelo VS Code:** se você tiver a extensão **Code Runner**, clique no botão **"Run Code"** no canto superior direito do editor.
 
----
+
 
 ## 💡 Observações
 - Todos os exercícios utilizam a biblioteca `prompt-sync` para capturar entradas do usuário via terminal.
